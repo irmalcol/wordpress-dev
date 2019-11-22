@@ -1,1 +1,10 @@
+######################
+# WordPress Database #
+######################
 /db_data/
+
+###########
+# Plugins #
+###########
+/html/wp-content/plugins/woocommerce
+/html/wp-content/languages/plugins/woocommerce*
