@@ -6,5 +6,10 @@
 ###########
 # Plugins #
 ###########
-/html/wp-content/plugins/woocommerce
+/html/wp-content/plugins
 /html/wp-content/languages/plugins/woocommerce*
+
+#################
+# OS/Editor/IDE #
+#################
+.DS_Store
