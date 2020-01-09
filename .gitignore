@@ -13,3 +13,8 @@
 # OS/Editor/IDE #
 #################
 .DS_Store
+
+#############
+# Debugging #
+#############
+/html/wp-content/debug.log
